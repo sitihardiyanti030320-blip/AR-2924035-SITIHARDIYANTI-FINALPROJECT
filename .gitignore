@@ -12,11 +12,20 @@
 .vs/
 .idea/
 .vscode/
+.gradle/
 *.csproj
 *.sln
 *.slnx
+*.suo
 *.user
 *.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
 
 # Build files
 *.apk
@@ -26,3 +35,6 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Crash reports
+sysinfo.txt
