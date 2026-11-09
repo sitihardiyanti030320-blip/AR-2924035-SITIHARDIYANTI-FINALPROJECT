@@ -1,4 +1,4 @@
-cat > .gitignore <<'EOF'
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,10 +6,23 @@ cat > .gitignore <<'EOF'
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-[Mm]emoryCaptures/
+.utmp/
+
+# IDE generated files
 .vs/
-.gradle/
-ExportedObj/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Build files
+*.apk
+*.aab
+
+# Operating system files
 .DS_Store
 Thumbs.db
-EOF
+Desktop.ini

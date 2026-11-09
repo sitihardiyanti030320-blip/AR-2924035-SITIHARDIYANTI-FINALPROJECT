@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RefImageLibrary_FinalProject
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5534516397122829785
+  m_GuidHigh: 17984587523906223760
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5040251455646147668
+      m_GuidHigh: 14294713282687894672
+    m_SerializedTextureGuid:
+      m_GuidLow: 4707525667409942627
+      m_GuidHigh: 16489014315825968217
+    m_Size: {x: 0.15, y: 0.09962687}
+    m_SpecifySize: 1
+    m_Name: "Marker 1 \u2014 Aurora Borealis"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5306898015702528605
+      m_GuidHigh: 8931052163059996557
+    m_SerializedTextureGuid:
+      m_GuidLow: 5234503753791199638
+      m_GuidHigh: 1250512307977389338
+    m_Size: {x: 0.15, y: 0.112500004}
+    m_SpecifySize: 1
+    m_Name: "Marker 2 \u2014 Terumbu Karang"
+    m_Texture: {fileID: 0}
