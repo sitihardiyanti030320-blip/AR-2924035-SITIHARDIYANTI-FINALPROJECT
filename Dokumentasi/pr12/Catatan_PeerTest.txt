@@ -1,0 +1,45 @@
+CATATAN PEER TEST - PERTEMUAN 12
+Augmented Reality - Interaksi Objek AR, UI, Audio, dan Animasi
+
+Nama Mahasiswa : salman al zikri
+NIM            : 2924014
+Nama Penguji   : harywan
+Tanggal Uji    : 26/11/2026
+Perangkat Uji  : (samsung)
+
+-------------------------------------------------------------
+A. CARA PENGUJIAN
+-------------------------------------------------------------
+Penguji diberi HP dan marker tanpa penjelasan fungsi tombol.
+Instruksi yang diberikan: "Coba gunakan aplikasi ini dan jelaskan
+apa yang membingungkan."
+
+-------------------------------------------------------------
+B. FORM VALIDASI
+-------------------------------------------------------------
+No | Yang Diuji                          | Hasil                       | Catatan/Perbaikan
+1  | Marker mudah dipahami/ditemukan     | [✔] Lulus [ ] Perlu perbaikan |
+2  | Rotate Left/Right mudah digunakan   | [✔] Lulus [ ] Perlu perbaikan |
+3  | Scale Up/Down mudah digunakan       | [✔] Lulus [ ] Perlu perbaikan |
+4  | Judul/deskripsi mudah dibaca        | [✔] Lulus [ ] Perlu perbaikan |
+5  | Feedback audio terasa jelas         | [✔] Lulus [ ] Perlu perbaikan |
+
+-------------------------------------------------------------
+C. TEMUAN
+-------------------------------------------------------------
+Masalah yang ditemukan penguji:
+(penguji tidak tahu harus memindai marker lebih dulu)
+
+
+D. PERBAIKAN YANG DILAKUKAN
+-------------------------------------------------------------
+Perbaikan untuk masalah di atas:
+(menambahkan teks "Scan marker terlebih dahulu" pada deskripsi)
+
+
+E. KESIMPULAN
+-------------------------------------------------------------
+Apakah minimal dua jenis interaksi (Rotate dan Scale) dapat
+digunakan penguji tanpa instruksi panjang?
+
+[✔] Ya    [ ] Belum
